@@ -36,6 +36,7 @@ int main()
 	for(i=0;i<5;i++){
 		
 	printf("%d\n",a[i]);
+// 		printf("%d\n",a[i]);
 		
 		
 	}
