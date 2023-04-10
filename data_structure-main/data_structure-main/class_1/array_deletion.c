@@ -22,6 +22,8 @@ int main()
 
       for (c = 0; c < n - 1; c++)
          printf("%d\n", array[c]);
+//      printf("%d\n", array[c]);
+   
 
    
 
