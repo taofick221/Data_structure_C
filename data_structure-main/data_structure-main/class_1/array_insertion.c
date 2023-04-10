@@ -39,6 +39,7 @@ int main()
     for(i=0;i<size+1;i++){
     	
     	printf("%d\t",a[i]);
+// 	    printf("%d\t",a[i]);
 
 	}
     
